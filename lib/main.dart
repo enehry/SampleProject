@@ -105,7 +105,6 @@ class _HomeScreenState extends State<HomeScreen> {
       backgroundColor: Color(0xFF4891FF),
       body: Column(
         children: [
-          HeaderWidget(),
           Expanded(
             child: Container(
               padding: EdgeInsets.symmetric(horizontal: 10.0),
